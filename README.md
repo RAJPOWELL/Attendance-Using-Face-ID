@@ -15,25 +15,25 @@ The Face Recognition Attendance System is a project designed for automating atte
 
 1. Clone the repository:
 	bash```
-		git clone https://github.com/RAJPOWELL/A-ML-.git
+		git clone https://github.com/RAJPOWELL/A-ML-.git```
 
 2. Navigate to the project directory:
 	bash```
-		cd FRS
+		cd FRS```
 	
 3. Install the requirements file:
 	bash```
-		pip install -r requirements.txt
+		pip install -r requirements.txt```
 	
 4. Execute the Flask app
 	bash```
-		Python app.py
+		Python app.py```
 
-##Dependencies
-Flask
-Dlib
-OpenCV
-NumPy
-Pandas
+## Dependencies
+-Flask
+-Dlib
+-OpenCV
+-NumPy
+-Pandas
 
 
