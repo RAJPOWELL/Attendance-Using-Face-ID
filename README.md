@@ -30,10 +30,10 @@ The Face Recognition Attendance System is a project designed for automating atte
 		Python app.py```
 
 ## Dependencies
--Flask
--Dlib
--OpenCV
--NumPy
--Pandas
+- Flask
+- Dlib
+- OpenCV
+- NumPy
+- Pandas
 
 
